@@ -1,0 +1,1 @@
+export const serverPath = "https://cart-server-bkjj.onrender.com";
